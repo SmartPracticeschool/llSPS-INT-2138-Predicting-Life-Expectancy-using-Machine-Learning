@@ -2,11 +2,11 @@ llSPS-INT-2138-Predicting-Life-Expectancy-using-Machine-Learning
 
 URL's:
  
-Node-Red Dashboard URL:
+Node-Red Dashboard URL:https://node-red-zuxfo.eu-gb.mybluemix.net/ui/#!/0?socketid=VZNe9qFQB-a97C8OAAAM
 
 Data Set: https://www.kaggle.com/kumarajarshi/life-expectancy-who?rvi=1
 
-Video Demonstration:
+Video Demonstration:https://drive.google.com/file/d/1WPWpXtvJWtvlDIthNAh37p82G9LgYfru/view?usp=sharing
 
 Project Title: Predicating Life Expectancy using Machine Learning
 
